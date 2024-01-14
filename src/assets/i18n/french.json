@@ -1,0 +1,6 @@
+{
+  "SOME_TITLE": "Introduction à la documentation angulaire",
+  "TEXT1": "Angular est un cadre de conception d'applications et une plate-forme de développement permettant de créer des applications d'une seule page efficaces et sophistiquées.",
+  "TEXT2": "Ces documents Angular vous aident à apprendre et à utiliser le framework et la plateforme de développement Angular, depuis votre première application jusqu'à l'optimisation d'applications complexes d'une seule page pour les entreprises. Les tutoriels et guides incluent des exemples téléchargeables pour vous aider à démarrer vos projets.",
+  "TRANSLATED_BY_COMPONENT": "Ces documents supposent que vous connaissez déjà HTML, CSS, JavaScript et certains outils des dernières normes, tels que les classes et les modules."
+}
