@@ -1,6 +1,11 @@
 {
+  "ENGLISH": "Inglês",
+  "PORTUGUESE": "Português",
+  "SPANISH": "Espanhol",
+  "FRENCH": "Francês",
   "SOME_TITLE": "Introdução aos documentos Angular",
   "TEXT1": "Angular é uma estrutura de design de aplicativos e plataforma de desenvolvimento para a criação de aplicativos de página única eficientes e sofisticados.",
   "TEXT2": "Esses documentos Angular ajudam você a aprender e usar a estrutura Angular e a plataforma de desenvolvimento, desde seu primeiro aplicativo até a otimização de aplicativos complexos de página única para empresas. Tutoriais e guias incluem exemplos para download para ajudá-lo a iniciar seus projetos.",
-  "TRANSLATED_BY_COMPONENT": "Estes documentos pressupõem que você já esteja familiarizado com HTML, CSS, JavaScript e algumas das ferramentas dos padrões mais recentes, como classes e módulos."
+  "TRANSLATED_BY_COMPONENT": "Estes documentos pressupõem que você já esteja familiarizado com HTML, CSS, JavaScript e algumas das ferramentas dos padrões mais recentes, como classes e módulos.",
+  "MODULE_SOME_TEXT": "Este é um exemplo de como usar traduções em outros módulos"
 }

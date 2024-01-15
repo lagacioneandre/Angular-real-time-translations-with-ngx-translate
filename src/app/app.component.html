@@ -1,10 +1,11 @@
 
 
 <div>
-  <button (click)="changeLanguage(i)" *ngFor="let i of languageOptions">{{ i.label }}</button>
+  <button (click)="changeLanguage(i)" *ngFor="let i of languageOptions">{{ i.label | translate }}</button>
 </div>
 
 <h1>{{ 'SOME_TITLE' | translate }}</h1>
 <p>{{ 'TEXT1' | translate }}</p>
 <p>{{ 'TEXT2' | translate }}</p>
 <p>{{ textTranslatedByPipe }}</p>
+<app-some></app-some>

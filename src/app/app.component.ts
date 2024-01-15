@@ -37,23 +37,20 @@ export class AppComponent implements OnInit {
       _response => {
         this.languageOptions = [{
           value: this.availableLanguages[0],
-          label: _response[0],
+          label: _response[0].toUpperCase(),
         }, {
           value: this.availableLanguages[1],
-          label: _response[1],
+          label: _response[1].toUpperCase(),
         }, {
           value: this.availableLanguages[2],
-          label: _response[2],
+          label: _response[2].toUpperCase(),
         }, {
           value: this.availableLanguages[3],
-          label: _response[3],
+          label: _response[3].toUpperCase(),
         }];
         this.textTranslatedByPipe = this.translatePipe.transform('TRANSLATED_BY_COMPONENT');
       }
     );
-
-    
-    
   }
 
   changeLanguage(language: ILanguageOption) {

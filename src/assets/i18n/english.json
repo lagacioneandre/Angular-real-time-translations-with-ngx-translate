@@ -1,6 +1,11 @@
 {
+  "ENGLISH": "English",
+  "PORTUGUESE": "Portuguese",
+  "SPANISH": "Spanish",
+  "FRENCH": "French",
   "SOME_TITLE": "Introduction to the Angular docs",
   "TEXT1": "Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps.",
   "TEXT2": "These Angular docs help you learn and use the Angular framework and development platform, from your first application to optimizing complex single-page applications for enterprises. Tutorials and guides include downloadable examples to help you start your projects.",
-  "TRANSLATED_BY_COMPONENT": "These docs assume that you are already familiar with HTML, CSS, JavaScript, and some of the tools from the latest standards, such as classes and modules."
+  "TRANSLATED_BY_COMPONENT": "These docs assume that you are already familiar with HTML, CSS, JavaScript, and some of the tools from the latest standards, such as classes and modules.",
+  "MODULE_SOME_TEXT": "This is an example how to use translations in another modules"
 }
